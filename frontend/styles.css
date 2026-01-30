@@ -1,0 +1,24 @@
+/* frontend/styles.css */
+.header {
+  font-family: "Inter", sans-serif;
+  font-weight: 800;
+  font-size: 36px;
+  margin-bottom: 6px;
+}
+.subheader {
+  color: #6b7280;
+  margin-bottom: 16px;
+}
+.dropbox {
+  border: 1px dashed #e5e7eb;
+  padding: 18px;
+  border-radius: 8px;
+  background: #f8fafc;
+}
+.btn-improve {
+  border-radius: 8px;
+  padding: 8px 14px;
+  background: transparent;
+  border: 1px solid #fca5a5;
+  color: #b91c1c;
+}
